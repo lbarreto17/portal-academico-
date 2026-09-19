@@ -40,7 +40,7 @@ verificar(
 verificar(
     "Aluno com média 5",
     verificarSituacao(5),
-    "Reprovado"
+    "Recuperação"
 );
 
 if (erros === 0) {
