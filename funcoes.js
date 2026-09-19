@@ -7,6 +7,10 @@ function verificarSituacao(media) {
         return "Aprovado";
     }
 
+    if (media >= 4) {
+        return "Recuperação";
+    }
+
     return "Reprovado";
 }
 
