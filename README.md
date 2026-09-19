@@ -20,4 +20,4 @@ Projeto acadêmico desenvolvido para a prática de DevOps, GitHub Actions, CI/CD
 
 ## Site publicado
 
-[]
+[https://lbarreto17.github.io/portal-academico-/]
